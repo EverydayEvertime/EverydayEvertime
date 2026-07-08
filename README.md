@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**EverydayEvertime/EverydayEvertime** is a ✨- ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EverydayEvertime/EverydayEvertime** is a ✨ everyone ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
